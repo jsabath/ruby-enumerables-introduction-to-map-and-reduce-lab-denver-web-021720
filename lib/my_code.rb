@@ -39,3 +39,5 @@ def map_to_square(array)
   end
   return new
 end
+
+
