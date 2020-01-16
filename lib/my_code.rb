@@ -13,8 +13,8 @@ end
 def map_to_no_change(array)
   new = []
   i = 0
-  while i < source_array.length do
-    new.push( source_array[i] )
+  while i < array.length do
+    new.push(array[i] )
     i += 1
   end
   return new
