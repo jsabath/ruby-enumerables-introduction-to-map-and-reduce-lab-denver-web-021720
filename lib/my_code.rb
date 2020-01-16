@@ -49,3 +49,5 @@ def reduce_to_total(array, start_point=0)
   end
   return new
 end
+
+
